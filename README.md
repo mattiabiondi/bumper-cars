@@ -26,7 +26,7 @@ These files should be compatible with hardware produced by *"SOLI Bumper Cars"*,
 
 # DISCLAIMER
 
-I am in now way affiliated with *"SOLI Bumper Cars"*.
+I am in no way affiliated with *"SOLI Bumper Cars"*.
 
 The content of this repository is provided for EDUCATIONAL PURPOSES ONLY. <br>
 Don't use it for illegal activities. You are the only responsable for your actions!
